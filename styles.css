@@ -1,0 +1,8 @@
+.dt-buttons, .dataTables_length{
+    position: absolute !important;
+}
+
+.pagination{
+    position: relative;
+    bottom: 30px;
+}
